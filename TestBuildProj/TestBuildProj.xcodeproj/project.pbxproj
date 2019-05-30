@@ -361,13 +361,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = VK8P8C5Z6T;
+				DEVELOPMENT_TEAM = XKN99LRMT9;
 				INFOPLIST_FILE = TestBuildProj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mike.testbuldproj.TestBuildProj;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mike.testbuldproj.TestBuildPro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -379,13 +379,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = VK8P8C5Z6T;
+				DEVELOPMENT_TEAM = XKN99LRMT9;
 				INFOPLIST_FILE = TestBuildProj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mike.testbuldproj.TestBuildProj;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mike.testbuldproj.TestBuildPro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
