@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95560C2A22BBD32800F0F4C3 /* Project1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95560C2922BBD32800F0F4C3 /* Project1.storyboard */; };
+		95560C2C22BBD35900F0F4C3 /* Project1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95560C2B22BBD35900F0F4C3 /* Project1.swift */; };
+		95560C3922BBD73600F0F4C3 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C2F22BBD73500F0F4C3 /* nssl0041.jpg */; };
+		95560C3A22BBD73600F0F4C3 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3022BBD73500F0F4C3 /* nssl0045.jpg */; };
+		95560C3B22BBD73600F0F4C3 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3122BBD73500F0F4C3 /* nssl0043.jpg */; };
+		95560C3C22BBD73600F0F4C3 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3222BBD73600F0F4C3 /* nssl0091.jpg */; };
+		95560C3D22BBD73600F0F4C3 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3322BBD73600F0F4C3 /* nssl0049.jpg */; };
+		95560C3E22BBD73600F0F4C3 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3422BBD73600F0F4C3 /* nssl0033.jpg */; };
+		95560C3F22BBD73600F0F4C3 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3522BBD73600F0F4C3 /* nssl0034.jpg */; };
+		95560C4022BBD73600F0F4C3 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3622BBD73600F0F4C3 /* nssl0042.jpg */; };
+		95560C4122BBD73600F0F4C3 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3722BBD73600F0F4C3 /* nssl0051.jpg */; };
+		95560C4222BBD73600F0F4C3 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C3822BBD73600F0F4C3 /* nssl0046.jpg */; };
+		95560C4522BD006200F0F4C3 /* HappyDays.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95560C4422BD006200F0F4C3 /* HappyDays.storyboard */; };
+		95560C4722BD007A00F0F4C3 /* HappyDays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95560C4622BD007A00F0F4C3 /* HappyDays.swift */; };
+		95560C4922BD0CF600F0F4C3 /* MemoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95560C4822BD0CF600F0F4C3 /* MemoriesViewController.swift */; };
+		95560C4B22BD0D6800F0F4C3 /* MemoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95560C4A22BD0D6800F0F4C3 /* MemoryCell.swift */; };
 		95BE564C229F70C00068EA95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BE564B229F70C00068EA95 /* AppDelegate.swift */; };
 		95BE564E229F70C00068EA95 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BE564D229F70C00068EA95 /* ViewController.swift */; };
 		95BE5651229F70C00068EA95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95BE564F229F70C00068EA95 /* Main.storyboard */; };
@@ -26,6 +42,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		95560C2922BBD32800F0F4C3 /* Project1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Project1.storyboard; sourceTree = "<group>"; };
+		95560C2B22BBD35900F0F4C3 /* Project1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1.swift; sourceTree = "<group>"; };
+		95560C2F22BBD73500F0F4C3 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		95560C3022BBD73500F0F4C3 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		95560C3122BBD73500F0F4C3 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		95560C3222BBD73600F0F4C3 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		95560C3322BBD73600F0F4C3 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		95560C3422BBD73600F0F4C3 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		95560C3522BBD73600F0F4C3 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		95560C3622BBD73600F0F4C3 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		95560C3722BBD73600F0F4C3 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		95560C3822BBD73600F0F4C3 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		95560C4422BD006200F0F4C3 /* HappyDays.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = HappyDays.storyboard; sourceTree = "<group>"; };
+		95560C4622BD007A00F0F4C3 /* HappyDays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyDays.swift; sourceTree = "<group>"; };
+		95560C4822BD0CF600F0F4C3 /* MemoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoriesViewController.swift; sourceTree = "<group>"; };
+		95560C4A22BD0D6800F0F4C3 /* MemoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryCell.swift; sourceTree = "<group>"; };
 		95BE5648229F70C00068EA95 /* TestBuildProj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestBuildProj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95BE564B229F70C00068EA95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		95BE564D229F70C00068EA95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +88,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		95560C2D22BBD66000F0F4C3 /* Project1 */ = {
+			isa = PBXGroup;
+			children = (
+				95560C2E22BBD72600F0F4C3 /* Content */,
+				95560C2922BBD32800F0F4C3 /* Project1.storyboard */,
+				95560C2B22BBD35900F0F4C3 /* Project1.swift */,
+			);
+			path = Project1;
+			sourceTree = "<group>";
+		};
+		95560C2E22BBD72600F0F4C3 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				95560C3422BBD73600F0F4C3 /* nssl0033.jpg */,
+				95560C3522BBD73600F0F4C3 /* nssl0034.jpg */,
+				95560C2F22BBD73500F0F4C3 /* nssl0041.jpg */,
+				95560C3622BBD73600F0F4C3 /* nssl0042.jpg */,
+				95560C3122BBD73500F0F4C3 /* nssl0043.jpg */,
+				95560C3022BBD73500F0F4C3 /* nssl0045.jpg */,
+				95560C3822BBD73600F0F4C3 /* nssl0046.jpg */,
+				95560C3322BBD73600F0F4C3 /* nssl0049.jpg */,
+				95560C3722BBD73600F0F4C3 /* nssl0051.jpg */,
+				95560C3222BBD73600F0F4C3 /* nssl0091.jpg */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
+		95560C4322BD004A00F0F4C3 /* HappyDays */ = {
+			isa = PBXGroup;
+			children = (
+				95560C4422BD006200F0F4C3 /* HappyDays.storyboard */,
+				95560C4622BD007A00F0F4C3 /* HappyDays.swift */,
+				95560C4822BD0CF600F0F4C3 /* MemoriesViewController.swift */,
+				95560C4A22BD0D6800F0F4C3 /* MemoryCell.swift */,
+			);
+			path = HappyDays;
+			sourceTree = "<group>";
+		};
 		95BE563F229F70C00068EA95 = {
 			isa = PBXGroup;
 			children = (
@@ -77,6 +147,8 @@
 		95BE564A229F70C00068EA95 /* TestBuildProj */ = {
 			isa = PBXGroup;
 			children = (
+				95560C4322BD004A00F0F4C3 /* HappyDays */,
+				95560C2D22BBD66000F0F4C3 /* Project1 */,
 				95BE564B229F70C00068EA95 /* AppDelegate.swift */,
 				95BE564D229F70C00068EA95 /* ViewController.swift */,
 				95BE564F229F70C00068EA95 /* Main.storyboard */,
@@ -177,9 +249,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95560C4522BD006200F0F4C3 /* HappyDays.storyboard in Resources */,
+				95560C3922BBD73600F0F4C3 /* nssl0041.jpg in Resources */,
+				95560C4222BBD73600F0F4C3 /* nssl0046.jpg in Resources */,
+				95560C4022BBD73600F0F4C3 /* nssl0042.jpg in Resources */,
 				95BE5656229F70C10068EA95 /* LaunchScreen.storyboard in Resources */,
 				95BE5653229F70C10068EA95 /* Assets.xcassets in Resources */,
+				95560C2A22BBD32800F0F4C3 /* Project1.storyboard in Resources */,
+				95560C3D22BBD73600F0F4C3 /* nssl0049.jpg in Resources */,
+				95560C3E22BBD73600F0F4C3 /* nssl0033.jpg in Resources */,
+				95560C3A22BBD73600F0F4C3 /* nssl0045.jpg in Resources */,
+				95560C3F22BBD73600F0F4C3 /* nssl0034.jpg in Resources */,
+				95560C4122BBD73600F0F4C3 /* nssl0051.jpg in Resources */,
+				95560C3C22BBD73600F0F4C3 /* nssl0091.jpg in Resources */,
 				95BE5651229F70C00068EA95 /* Main.storyboard in Resources */,
+				95560C3B22BBD73600F0F4C3 /* nssl0043.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,6 +282,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				95BE564E229F70C00068EA95 /* ViewController.swift in Sources */,
+				95560C4922BD0CF600F0F4C3 /* MemoriesViewController.swift in Sources */,
+				95560C4722BD007A00F0F4C3 /* HappyDays.swift in Sources */,
+				95560C2C22BBD35900F0F4C3 /* Project1.swift in Sources */,
+				95560C4B22BD0D6800F0F4C3 /* MemoryCell.swift in Sources */,
 				95BE564C229F70C00068EA95 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
