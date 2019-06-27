@@ -41,7 +41,7 @@ class MemoriesViewController: UICollectionViewController {
                 navigationController?.present(vc, animated: true)
                 
             }
-            
+            print("test")
         }
     }
     
