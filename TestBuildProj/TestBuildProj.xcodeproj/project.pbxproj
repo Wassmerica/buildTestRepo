@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		951125FB230DDE3C006A8471 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951125FA230DDE3C006A8471 /* Extensions.swift */; };
 		95560C2A22BBD32800F0F4C3 /* Project1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95560C2922BBD32800F0F4C3 /* Project1.storyboard */; };
 		95560C2C22BBD35900F0F4C3 /* Project1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95560C2B22BBD35900F0F4C3 /* Project1.swift */; };
 		95560C3922BBD73600F0F4C3 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95560C2F22BBD73500F0F4C3 /* nssl0041.jpg */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		951125FA230DDE3C006A8471 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		95560C2922BBD32800F0F4C3 /* Project1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Project1.storyboard; sourceTree = "<group>"; };
 		95560C2B22BBD35900F0F4C3 /* Project1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1.swift; sourceTree = "<group>"; };
 		95560C2F22BBD73500F0F4C3 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				95BE5652229F70C10068EA95 /* Assets.xcassets */,
 				95BE5654229F70C10068EA95 /* LaunchScreen.storyboard */,
 				95BE5657229F70C10068EA95 /* Info.plist */,
+				951125FA230DDE3C006A8471 /* Extensions.swift */,
 			);
 			path = TestBuildProj;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				95560C2C22BBD35900F0F4C3 /* Project1.swift in Sources */,
 				95560C4B22BD0D6800F0F4C3 /* MemoryCell.swift in Sources */,
 				95BE564C229F70C00068EA95 /* AppDelegate.swift in Sources */,
+				951125FB230DDE3C006A8471 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
